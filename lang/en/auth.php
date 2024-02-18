@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'failed' => 'Tiedot ovat väärin.',
-    'password' => 'Annettu salasana on väärin.',
-    'throttle' => 'Liian monta epäonnistunutta yritystä. Yritä uudelleen :seconds sekuntin kuluttua.',
+    'failed' => 'Tiedot ovat v&auml;&auml;rin.',
+    'password' => 'Annettu salasana on v&auml;&auml;rin.',
+    'throttle' => 'Liian monta ep&auml;onnistunutta yrityst&auml;. Yrit&auml; uudelleen :seconds sekuntin kuluttua.',
 ];
