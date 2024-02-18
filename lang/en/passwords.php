@@ -13,8 +13,8 @@ return [
     */
 
     'reset' => 'Salasanasi on nollattu!',
-    'sent' => 'Lähetimme sinulle sähköpostiin salasanan nollauslinkin!',
+    'sent' => 'L&auml;hetimme sinulle s&auml;hk&ouml;postiin salasanan nollauslinkin!',
     'throttled' => 'Odota ennen kuin teet uudelleen.',
-    'token' => 'Salasanan nollaustokeni on väärä.',
-    'user' => "Käyttäjää tuolla sähköpostiosoitteella ei ole.",
+    'token' => 'Salasanan nollaustokeni on v&auml;&auml;r&auml;.',
+    'user' => "K&auml;ytt&auml;j&auml;&auml; tuolla s&auml;hk&ouml;postiosoitteella ei ole.",
 ];
