@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'Tiedot ovat v&auml;&auml;rin.',
+    'password' => 'Annettu salasana on v&auml;&auml;rin.',
+    'throttle' => 'Liian monta ep&auml;onnistunutta yrityst&auml;. Yrit&auml; uudelleen :seconds sekuntin kuluttua.',
 ];
