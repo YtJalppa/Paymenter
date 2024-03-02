@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'reset' => 'Your password has been reset!',
-    'sent' => 'We have emailed your password reset link!',
-    'throttled' => 'Please wait before retrying.',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that email address.",
+    'reset' => 'Salasanasi on nollattu!',
+    'sent' => 'L&auml;hetimme sinulle s&auml;hk&ouml;postiin salasanan nollauslinkin!',
+    'throttled' => 'Odota ennen kuin teet uudelleen.',
+    'token' => 'Salasanan nollaustokeni on v&auml;&auml;r&auml;.',
+    'user' => "K&auml;ytt&auml;j&auml;&auml; tuolla s&auml;hk&ouml;postiosoitteella ei ole.",
 ];
